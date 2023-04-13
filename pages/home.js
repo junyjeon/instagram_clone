@@ -1,6 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import styled from '@emotion/styled';
 import TabBar from '../components/TabBar';
+import Post from '../components/Post';
+import SearchBar from '../components/SearchBar';
+import { searchApi, searchData } from '../api/search';
 
 const Feed = styled.div`
   margin: 0 auto;
