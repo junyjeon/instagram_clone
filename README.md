@@ -23,6 +23,7 @@ instagram_clone
 </p>
 
 </div>
+![image](https://github.com/junyjeon/instagram_clone/assets/98337069/66fc764c-214e-45a0-b4d8-6cddbdfaf84d)
 
 ---
 ## 📚 Table of Contents
