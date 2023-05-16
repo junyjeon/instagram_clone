@@ -5,7 +5,8 @@
 <br>
 instagram_clone
 </h1>
- <img loading="lazy" alt="인스타그램 클론코딩 데모" src="/assets/images/insta-clone-demo-v2-f849682eaf73d2f9b66fe34a6b55c1a0.gif" width="516" height="768" class="img_ev3q">
+![insta-clone-demo-v2-f849682eaf73d2f9b66fe34a6b55c1a0](https://github.com/junyjeon/instagram_clone/assets/98337069/38ec5a8b-1913-472e-be5f-37873ff20c61)
+
 <h3 align="center">📍 Clone Instagram – Experience the Magic!</h3>
 <h3 align="center">🚀 Developed with the software and tools below.</h3>
 <p align="center">
