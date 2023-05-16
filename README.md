@@ -5,6 +5,7 @@
 <br>
 instagram_clone
 </h1>
+ <img src="https://github.com/junyjeon/instagram_clone/assets/98337069/66fc764c-214e-45a0-b4d8-6cddbdfaf84d">
 <h3 align="center">📍 Clone Instagram – Experience the Magic!</h3>
 <h3 align="center">🚀 Developed with the software and tools below.</h3>
 <p align="center">
@@ -23,7 +24,7 @@ instagram_clone
 </p>
 
 </div>
-![image](https://github.com/junyjeon/instagram_clone/assets/98337069/66fc764c-214e-45a0-b4d8-6cddbdfaf84d)
+
 
 ---
 ## 📚 Table of Contents
